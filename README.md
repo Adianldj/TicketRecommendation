@@ -1,7 +1,6 @@
 # TicketRecommendation
-<>Event+: Java Web Service Development – Event Search and Recommendation Engine<>
-GitHub: https://github.com/xxxxxxxxxxx/Dashi.git
-Developed a dynamic web page for users to search events and update preference
+  Event+: Java Web Service Development – Event Search and Recommendation Engine<>
+  Developed a dynamic web page for users to search events and update preference
 Improved personalized event recommendation based on search history and favorite records
 Back End:
 Created Java servlets with RESTful APIs to handle HTTP requests and responses
